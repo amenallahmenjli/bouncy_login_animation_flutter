@@ -106,7 +106,7 @@ class _AnimationsSequenceState extends State<AnimationsSequence>
                 height: 450,
                 width: 250,
                 color: Colors.blue,
-                child: Text(
+                child: const Text(
                     "The login screen should be here but I am so tired at this point so I won't implement it here"),
               ),
             )),
